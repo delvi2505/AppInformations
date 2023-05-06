@@ -5,7 +5,7 @@
     "StatusUpdate":"desarrollo",
     "ShowAlert":"false",
     "Message":"",
-    "ShowBanner":"false",
-    "ShowIntertitial":"false"
+    "ShowBanner":"true",
+    "ShowIntertitial":"true"
   }
 ]
