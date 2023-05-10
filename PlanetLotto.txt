@@ -1,0 +1,11 @@
+[
+  {
+    "VersionName":"1.0",
+    "BaseApiUrl":"https://apifreezdevelopers.bsite.net/PlanetLotto",
+    "StatusUpdate":"desarrollo",
+    "ShowAlert":"false",
+    "Message":"",
+    "ShowBanner":"true",
+    "ShowIntertitial":"true"
+  }
+]
