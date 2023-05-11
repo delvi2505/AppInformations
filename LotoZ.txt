@@ -11,7 +11,7 @@
   {
     "VersionName":"1.6",
     "BaseApiUrl":"https://apifreezdevelopers.bsite.net/FreeLotoZ",
-    "StatusUpdate":"deprecate",
+    "StatusUpdate":"desarrollo",
     "ShowBanner":"true",
     "ShowIntertitial":"true",
     "Alert":
