@@ -7,5 +7,21 @@
     "Message":"",
     "ShowBanner":"true",
     "ShowIntertitial":"true"
+  },
+  {
+    "VersionName":"1.6",
+    "BaseApiUrl":"https://apifreezdevelopers.bsite.net/FreeLotoZ",
+    "StatusUpdate":"desarrollo",
+    "ShowBanner":"true",
+    "ShowIntertitial":"true",
+    "Alert":
+    {
+      "Key":"01.11.05.2023",
+      "Title":"Alerta de prueba",
+      "Text":"Esta es una increible alerta de prueba: \n *Linea 1 \n *Linea 2 \n *Linea 3",
+      "ShowAlert":"true",
+      "CanClose":"true",
+      "Repeat":"true"
+    }
   }
 ]
