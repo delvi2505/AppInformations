@@ -10,7 +10,7 @@
   },
   {
     "VersionName":"1.6",
-    "BaseApiUrl":"https://apifreezdevelopers.bsite.net/FreeLotoZ",
+    "BaseApiUrl":"http://deivi2505-002-site1.htempurl.com/FreeLotoZ",
     "StatusUpdate":"desarrollo",
     "ShowBanner":"true",
     "ShowIntertitial":"true",
