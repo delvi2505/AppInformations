@@ -18,7 +18,7 @@
     {
       "Key":"23.06.05.2023",
       "Title":"Novedad",
-      "Text":"Usa el icono de lápiz en esta pantalla\n para guardar anotaciones de lo que quieras,\n como por ejemplo tus jugadas y números favoritos\n o los de tus conocidos.",
+      "Text":"Usa el icono de lápiz en esta pantalla para guardar anotaciones de lo que quieras, como por ejemplo tus jugadas y números favoritos o los de tus conocidos.",
       "ShowAlert":"true",
       "CanClose":"true",
       "Repeat":"false"
