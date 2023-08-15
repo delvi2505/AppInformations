@@ -27,17 +27,8 @@
   {
       "VersionName":"1.7",
       "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
-      "StatusUpdate":"desarrollo",
+      "StatusUpdate":"publicada",
       "ShowBanner":"true",
-      "ShowIntertitial":"true",
-       "Alert":
-          {
-            "Key":"16.15.08.2023",
-            "Title":"COMPARTE LA APP",
-            "Text":"Si te ha servido y te gusta la app, ¡PRESIONA EL BOTON COMPARTIR! y enviala a grupos de loterias",
-            "ShowAlert":"true",
-            "CanClose":"true",
-            "Repeat":"false"
-          }
+      "ShowIntertitial":"true"
   }
 ]
