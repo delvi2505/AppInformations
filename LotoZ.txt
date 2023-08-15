@@ -16,9 +16,9 @@
     "ShowIntertitial":"true",
     "Alert":
     {
-      "Key":"23.06.05.2023",
-      "Title":"Novedad",
-      "Text":"Usa el icono de lápiz en esta pantalla para guardar anotaciones de lo que quieras, como por ejemplo tus jugadas y números favoritos o los de tus conocidos.",
+      "Key":"16.15.08.2023",
+      "Title":"COMPARTE LA APP",
+      "Text":"Si te ha servido y te gusta la app, ¡PRESIONA EL BOTON COMPARTIR! y enviala a grupos de loterias",
       "ShowAlert":"true",
       "CanClose":"true",
       "Repeat":"false"
@@ -29,6 +29,15 @@
       "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
       "StatusUpdate":"desarrollo",
       "ShowBanner":"true",
-      "ShowIntertitial":"true"
+      "ShowIntertitial":"true",
+       "Alert":
+          {
+            "Key":"16.15.08.2023",
+            "Title":"COMPARTE LA APP",
+            "Text":"Si te ha servido y te gusta la app, ¡PRESIONA EL BOTON COMPARTIR! y enviala a grupos de loterias",
+            "ShowAlert":"true",
+            "CanClose":"true",
+            "Repeat":"false"
+          }
   }
 ]
