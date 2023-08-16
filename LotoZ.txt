@@ -2,7 +2,7 @@
   {
     "VersionName":"1.5",
     "BaseApiUrl":"https://apifreezdevelopers.bsite.net/FreeLotoZ",
-    "StatusUpdate":"publicada",
+    "StatusUpdate":"actualizable",
     "ShowAlert":"false",
     "Message":"",
     "ShowBanner":"true",
