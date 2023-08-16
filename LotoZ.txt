@@ -16,9 +16,9 @@
     "ShowIntertitial":"true",
     "Alert":
     {
-      "Key":"16.15.08.2023",
-      "Title":"COMPARTE LA APP",
-      "Text":"Si te ha servido y te gusta la app, ¡PRESIONA EL BOTON COMPARTIR! y enviala a grupos de loterias",
+      "Key":"16.16.08.2023",
+      "Title":"ACTUALIZA LA APP",
+      "Text":"Tenemos una nueva versión disponible y te recomendamos actulizar ahora \nAbre GooglePlay, Busca LotoZ y presiona ACTUALIZAR",
       "ShowAlert":"true",
       "CanClose":"true",
       "Repeat":"false"
