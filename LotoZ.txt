@@ -31,13 +31,13 @@
         "ShowBanner":true,
         "ShowIntertitial":true,
          "Alert":
-            {
-              "Key":"19.16.08.2023",
-              "Title":"RECORDATORIO",
-              "Text":"Hola, a la derecha de los resultados de un sorteo hay un boton azul que dice Enviar usalo para compartir resultados por WhatsApp o cualquier otro servicio de mensajeria que elijas",
-              "ShowAlert":true,
-              "CanClose":true,
-              "Repeat":false
-            }
+          {
+            "Key":"19.16.08.2023",
+            "Title":"RECORDATORIO",
+            "Text":"Hola, a la derecha de los resultados de un sorteo hay un boton azul que dice Enviar usalo para compartir resultados por WhatsApp o cualquier otro servicio de mensajeria que elijas",
+            "ShowAlert":false,
+            "CanClose":true,
+            "Repeat":false
+          }
     }
 ]
