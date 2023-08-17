@@ -1,35 +1,26 @@
 [
   {
-    "VersionName":"1.5",
-    "BaseApiUrl":"https://apifreezdevelopers.bsite.net/FreeLotoZ",
-    "StatusUpdate":"actualizable",
-    "ShowAlert":"false",
-    "Message":"",
-    "ShowBanner":"true",
-    "ShowIntertitial":"true"
-  },
-  {
     "VersionName":"1.6",
     "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
     "StatusUpdate":"actualizable",
-    "ShowBanner":"true",
-    "ShowIntertitial":"true",
+    "ShowBanner":true,
+    "ShowIntertitial":true,
     "Alert":
     {
       "Key":"16.16.08.2023",
       "Title":"ACTUALIZA LA APP",
       "Text":"Tenemos una nueva versión disponible y te recomendamos actulizar ahora \nAbre GooglePlay, Busca LotoZ y presiona ACTUALIZAR",
-      "ShowAlert":"true",
-      "CanClose":"true",
-      "Repeat":"false"
+      "ShowAlert":true,
+      "CanClose":true,
+      "Repeat":false
     }
   },
   {
       "VersionName":"1.7",
       "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
       "StatusUpdate":"publicada",
-      "ShowBanner":"true",
-      "ShowIntertitial":"true",
+      "ShowBanner":true,
+      "ShowIntertitial":true,
        "Alert":
           {
             "Key":"19.16.08.2023",
