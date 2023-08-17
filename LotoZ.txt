@@ -1,34 +1,43 @@
 [
   {
-    "VersionName":"1.6",
-    "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
-    "StatusUpdate":"actualizable",
-    "ShowBanner":true,
-    "ShowIntertitial":true,
-    "Alert":
-    {
-      "Key":"16.16.08.2023",
-      "Title":"ACTUALIZA LA APP",
-      "Text":"Tenemos una nueva versión disponible y te recomendamos actulizar ahora \nAbre GooglePlay, Busca LotoZ y presiona ACTUALIZAR",
+      "VersionName":"1.5",
+      "BaseApiUrl":"https://apifreezdevelopers.bsite.net/FreeLotoZ",
+      "StatusUpdate":"actualizable",
       "ShowAlert":true,
-      "CanClose":true,
-      "Repeat":false
-    }
-  },
-  {
-      "VersionName":"1.7",
+      "Message":"Debes actualizar la app lo antes posible para seguir usandola",
+      "ShowBanner":true,
+      "ShowIntertitial":true
+    },
+    {
+      "VersionName":"1.6",
       "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
-      "StatusUpdate":"publicada",
+      "StatusUpdate":"actualizable",
       "ShowBanner":true,
       "ShowIntertitial":true,
-       "Alert":
-          {
-            "Key":"19.16.08.2023",
-            "Title":"RECORDATORIO",
-            "Text":"Hola, a la derecha de los resultados de un sorteo hay un botón azul que dice Enviar usalo para compartir resultados por WhatsApp o cualquier otro servicio de mensajeria que elijas",
-            "ShowAlert":true,
-            "CanClose":true,
-            "Repeat":false
-          }
-  }
+      "Alert":
+      {
+        "Key":"16.16.08.2023",
+        "Title":"ACTUALIZA LA APP",
+        "Text":"Tenemos una nueva versión disponible y te recomendamos actulizar ahora \nAbre GooglePlay, Busca LotoZ y presiona ACTUALIZAR",
+        "ShowAlert":true,
+        "CanClose":true,
+        "Repeat":false
+      }
+    },
+    {
+        "VersionName":"1.7",
+        "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
+        "StatusUpdate":"publicada",
+        "ShowBanner":true,
+        "ShowIntertitial":true,
+         "Alert":
+            {
+              "Key":"19.16.08.2023",
+              "Title":"RECORDATORIO",
+              "Text":"Hola, a la derecha de los resultados de un sorteo hay un boton azul que dice Enviar usalo para compartir resultados por WhatsApp o cualquier otro servicio de mensajeria que elijas",
+              "ShowAlert":true,
+              "CanClose":true,
+              "Repeat":false
+            }
+    }
 ]
