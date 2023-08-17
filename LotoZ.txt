@@ -11,7 +11,7 @@
     {
       "VersionName":"1.6",
       "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
-      "StatusUpdate":"actualizable",
+      "StatusUpdate":"publicada",
       "ShowBanner":true,
       "ShowIntertitial":true,
       "Alert":
