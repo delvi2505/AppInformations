@@ -19,7 +19,7 @@
         "Key":"16.16.08.2023",
         "Title":"ACTUALIZA LA APP",
         "Text":"Tenemos una nueva versión disponible y te recomendamos actulizar ahora \nAbre GooglePlay, Busca LotoZ y presiona ACTUALIZAR",
-        "ShowAlert":true,
+        "ShowAlert":false,
         "CanClose":true,
         "Repeat":false
       }
