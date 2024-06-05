@@ -26,7 +26,7 @@
     },
     {
         "VersionName":"1.7",
-        "BaseApiUrl":"https://deivi2505-002-site1.htempurl.com/FreeLotoZ",
+        "BaseApiUrl":"https://api.binarytech.com.do/FreeLotoZ",
         "StatusUpdate":"publicada",
         "ShowBanner":true,
         "ShowIntertitial":true,
